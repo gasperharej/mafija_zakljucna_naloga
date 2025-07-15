@@ -47,7 +47,7 @@ mafija_zakljucna/
 2. **Oglej si simulacijo** (Jupyter notebook):
 
    * Lokalno: odpri `data/mafija_zakljucna.ipynb` v Jupyter Lab/Notebook.
-   * Spletno: [![nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.org/github/gasperharej/mafija_zakljucna/blob/main/data/mafija_zakljucna.ipynb)
+   * Spletno: [![nbviewer](https://img.shields.io/badge/view-nbviewer-orange)](https://nbviewer.org/github/gasperharej/mafija_zakljucna_naloga/blob/main/data/mafija_zakljucna.ipynb)
 3. **Prevedi poročilo** (LaTeX):
 
    ```bash
