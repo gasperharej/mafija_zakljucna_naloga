@@ -12,10 +12,6 @@ Ta repozitorij vsebuje rešitev naloge **15. Naključna naključna hoja**, kjer 
 > Delec skače na 1d mreži, pri čemer je verjetnost za skok iz *j*-tega mesta na mesto *j + 1* enaka *p<sub>j</sub>*, za skok na levo pa *1 − p<sub>j</sub>*. Verjetnosti *p<sub>j</sub>* so naključne spremenljivke, porazdeljene po taki porazdelitvi, da velja
 > $\mathbb{E}[\log p_j/(1-p_j)] = 0$.
 
-## 🧑‍🏫 Mentor
-
-* **Marko Žnidarič** (Predavatelj: Matematična fizika, VSŠ)
-
 ---
 
 ## 📂 Struktura repozitorija
